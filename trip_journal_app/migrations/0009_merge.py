@@ -9,6 +9,7 @@ class Migration(migrations.Migration):
     dependencies = [
         ('trip_journal_app', '0008_tag_datetime'),
         ('trip_journal_app', '0005_usernotify'),
+        ('trip_journal_app', '0007_tag_datetime'),
     ]
 
     operations = [
